@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  text-align: center;
+  }
+#mainheader{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color:white;
+}
+.subheader {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  }
+  .linkcolor {
+    color:Aquamarine;
+    font-size: 16px;
+  }
+  #description {
+      font-family: Verdana;
+      font-size: 21px;
+      color: gray;
+  }
+  #copyright {
+    text-align: right;
+    color: gray;
+  }
